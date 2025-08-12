@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/🚀 AWS ECS Deployment Techniques.md",
+                "file": "Python/Global Interpreter Lock (GIL) in Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🚀 AWS ECS Deployment Techniques"
+              "title": "Global Interpreter Lock (GIL) in Python"
             }
           },
           {
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 422.5
   },
   "right": {
     "id": "94f7984e4ec7a610",
@@ -184,16 +184,17 @@
   },
   "active": "8feedbb9c0582460",
   "lastOpenFiles": [
-    "System Design/🐳 AWS ECS — Choosing Between Fargate and EC2.md",
-    "System Design/🚀 AWS ECS Deployment Techniques.md",
-    "System Design/AWS Load Balancing for Django on ECS (3 Instances).md",
     "Python.md",
+    "Python/Global Interpreter Lock (GIL) in Python.md",
+    "System Design/🚀 AWS ECS Deployment Techniques.md",
+    "System Design/🐳 AWS ECS — Choosing Between Fargate and EC2.md",
+    "System Design/API Caching Best Practices — Public vs Private APIs.md",
+    "System Design/AWS Load Balancing for Django on ECS (3 Instances).md",
     "Test Canvas.canvas",
     "Distributed Systems/Async/Celery Setup.md",
     "Distributed Systems/Async/Code - Asyncio+Threads+Process.md",
     "System Design",
     "Untitled.canvas",
-    "System Design/API Caching Best Practices — Public vs Private APIs.md",
     "Distributed Systems/Async/async programming.md",
     "Python/Python Django Web Development.md",
     "Medium Post/FastAPI vs Django.md",
