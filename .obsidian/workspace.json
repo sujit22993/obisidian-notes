@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Global Interpreter Lock (GIL) in Python.md",
+                "file": "Data Science & Machine Learning/📝 ML Model Productionization on AWS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Global Interpreter Lock (GIL) in Python"
+              "title": "📝 ML Model Productionization on AWS"
             }
           },
           {
@@ -182,10 +182,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8feedbb9c0582460",
+  "active": "03b4aff45c88f6b3",
   "lastOpenFiles": [
-    "Python.md",
+    "Data Science & Machine Learning/Why AWS Glue + Athena are a Great Choice for Data Science Projects.md",
+    "Data Science & Machine Learning/📝 ML Model Productionization on AWS.md",
+    "System Design/AWS Glue ETL - Detailed Notes.md",
+    "Data Science & Machine Learning",
+    "System Design/ETL Scraping Tool – Project & Interview Reference.md",
     "Python/Global Interpreter Lock (GIL) in Python.md",
+    "Python.md",
     "System Design/🚀 AWS ECS Deployment Techniques.md",
     "System Design/🐳 AWS ECS — Choosing Between Fargate and EC2.md",
     "System Design/API Caching Best Practices — Public vs Private APIs.md",
