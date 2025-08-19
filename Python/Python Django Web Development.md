@@ -1,4 +1,4 @@
-[[Celery Setup]]
+[[Celery + RabbitMQ + Redis + Django + Integration]]
 
 
 > [!NOTE] Hello World

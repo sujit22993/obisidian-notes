@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science & Machine Learning/📝 ML Model Productionization on AWS.md",
+                "file": "Design Patterns/Introduction - Design Patterns.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📝 ML Model Productionization on AWS"
+              "title": "Introduction - Design Patterns"
             }
           },
           {
@@ -92,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 465.5
   },
   "right": {
     "id": "94f7984e4ec7a610",
@@ -184,32 +185,43 @@
   },
   "active": "03b4aff45c88f6b3",
   "lastOpenFiles": [
-    "Data Science & Machine Learning/Why AWS Glue + Athena are a Great Choice for Data Science Projects.md",
-    "Data Science & Machine Learning/📝 ML Model Productionization on AWS.md",
-    "System Design/AWS Glue ETL - Detailed Notes.md",
-    "Data Science & Machine Learning",
+    "Distributed Systems/Celery/🐇 Celery – Broker, Task IDs, and Failure Handling.md",
+    "Design Patterns/Introduction - Design Patterns.md",
+    "Distributed Systems/Async - Python/Code - Asyncio+Threads+Process.md",
+    "Design Patterns",
+    "Docker/Docker - depends_on and Healthcheck.md",
+    "Databases/Postgres/📌 psycopg2 vs psycopg2-binary.md",
+    "Distributed Systems/Celery/Celery + RabbitMQ + Redis + Django + Integration.md",
+    "Distributed Systems/Celery/Redis - Django + Celery + RabbitMQ + Postgres Setup.md",
+    "Distributed Systems/Async - Python/async programming.md",
+    "Distributed Systems/Async - Python",
+    "Version Control System - Github/Github - Cheat Code.md",
+    "Databases/Untitled",
+    "Docker/📌 Docker Compose - up vs down.md",
+    "Version Control System - Github",
+    "Docker/📌 Docker Volume Mounting.md",
+    "Databases/Postgres",
+    "Databases",
+    "Docker/Additional Notes - Visualizing Healthchecks (Compose vs Kubernetes).md",
     "System Design/ETL Scraping Tool – Project & Interview Reference.md",
+    "Docker",
+    "System Design/AWS Glue ETL - Detailed Notes.md",
+    "Python/Python Django Web Development.md",
     "Python/Global Interpreter Lock (GIL) in Python.md",
+    "Medium Post/FastAPI vs Django.md",
+    "Data Science & Machine Learning/📝 ML Model Productionization on AWS.md",
+    "Data Science & Machine Learning/Why AWS Glue + Athena are a Great Choice for Data Science Projects.md",
+    "Data Science & Machine Learning",
     "Python.md",
     "System Design/🚀 AWS ECS Deployment Techniques.md",
     "System Design/🐳 AWS ECS — Choosing Between Fargate and EC2.md",
     "System Design/API Caching Best Practices — Public vs Private APIs.md",
     "System Design/AWS Load Balancing for Django on ECS (3 Instances).md",
     "Test Canvas.canvas",
-    "Distributed Systems/Async/Celery Setup.md",
-    "Distributed Systems/Async/Code - Asyncio+Threads+Process.md",
     "System Design",
     "Untitled.canvas",
-    "Distributed Systems/Async/async programming.md",
-    "Python/Python Django Web Development.md",
-    "Medium Post/FastAPI vs Django.md",
     "Medium Post",
     "create a link.md",
-    "Welcome.md",
-    "Distributed Systems/Async",
-    "Distributed Systems",
-    "Django",
-    "Python",
-    "2025-08-07.md"
+    "Welcome.md"
   ]
 }
