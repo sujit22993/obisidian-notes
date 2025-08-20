@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Introduction - Design Patterns.md",
+                "file": "DSA/DSA Planning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Introduction - Design Patterns"
+              "title": "DSA Planning"
             }
           },
           {
@@ -185,17 +185,22 @@
   },
   "active": "03b4aff45c88f6b3",
   "lastOpenFiles": [
+    "Distributed Systems/Celery/Celery + RabbitMQ + Redis + Django + Integration.md",
     "Distributed Systems/Celery/🐇 Celery – Broker, Task IDs, and Failure Handling.md",
-    "Design Patterns/Introduction - Design Patterns.md",
+    "DSA/DSA Planning.md",
+    "Version Control System - Github/Github - Cheat Code.md",
+    "System Design/ETL Scraping Tool – Project & Interview Reference.md",
+    "System Design/AWS Glue ETL - Detailed Notes.md",
+    "Distributed Systems/Async - Python/async programming.md",
+    "System Design/🐳 AWS ECS — Choosing Between Fargate and EC2.md",
+    "Distributed Systems/Celery/Redis - Django + Celery + RabbitMQ + Postgres Setup.md",
     "Distributed Systems/Async - Python/Code - Asyncio+Threads+Process.md",
+    "Design Patterns/Introduction - Design Patterns.md",
+    "DSA",
     "Design Patterns",
     "Docker/Docker - depends_on and Healthcheck.md",
     "Databases/Postgres/📌 psycopg2 vs psycopg2-binary.md",
-    "Distributed Systems/Celery/Celery + RabbitMQ + Redis + Django + Integration.md",
-    "Distributed Systems/Celery/Redis - Django + Celery + RabbitMQ + Postgres Setup.md",
-    "Distributed Systems/Async - Python/async programming.md",
     "Distributed Systems/Async - Python",
-    "Version Control System - Github/Github - Cheat Code.md",
     "Databases/Untitled",
     "Docker/📌 Docker Compose - up vs down.md",
     "Version Control System - Github",
@@ -203,9 +208,7 @@
     "Databases/Postgres",
     "Databases",
     "Docker/Additional Notes - Visualizing Healthchecks (Compose vs Kubernetes).md",
-    "System Design/ETL Scraping Tool – Project & Interview Reference.md",
     "Docker",
-    "System Design/AWS Glue ETL - Detailed Notes.md",
     "Python/Python Django Web Development.md",
     "Python/Global Interpreter Lock (GIL) in Python.md",
     "Medium Post/FastAPI vs Django.md",
@@ -214,14 +217,11 @@
     "Data Science & Machine Learning",
     "Python.md",
     "System Design/🚀 AWS ECS Deployment Techniques.md",
-    "System Design/🐳 AWS ECS — Choosing Between Fargate and EC2.md",
     "System Design/API Caching Best Practices — Public vs Private APIs.md",
     "System Design/AWS Load Balancing for Django on ECS (3 Instances).md",
     "Test Canvas.canvas",
     "System Design",
     "Untitled.canvas",
-    "Medium Post",
-    "create a link.md",
-    "Welcome.md"
+    "create a link.md"
   ]
 }
